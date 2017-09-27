@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 This project will contain...
 Repository made for exercises.
 Edit again in the master branch..
-=======
+
 This project will contain....
 Repository made for exercises.
 Hello,again!!!
